@@ -27,6 +27,8 @@ It Is Safe To Use Credit Cards. Because Our Secure Socket Layer (SSL) Software I
     * The site has a ssl certificate.
     * The certificate is not recently issued.
 
+9. Run a whois scan
+    * If the domain is only registered a few weeks/months ago and it is holding a mega sale something is wrong.
 
 ## How to contribute?
 You can freely contribute to the project by creating a fork or creating an issue. Be sure to put in the domain so we can verify it ourselves.
